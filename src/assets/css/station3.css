@@ -1,5 +1,7 @@
-.background {
-    background-color: #fff;
+.card {
+    background-color: #ffffff;
+    padding: 20px;
+
 }
 
 .card__title {
@@ -12,10 +14,9 @@
     color: #282828;
 }
 
-.card__image-top {
+.card__img-top {
     width: 288px;
-    height: 1820px;
+    height: 182px;
+    margin-bottom: 20px;
 }
-
-/* generate interesting css */
 
